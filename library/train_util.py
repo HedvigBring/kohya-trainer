@@ -76,7 +76,7 @@ DEFAULT_LAST_OUTPUT_NAME = "last"
 
 # region dataset
 
-IMAGE_EXTENSIONS = [".png", ".jpg", ".jpeg", ".webp", ".bmp", ".PNG", ".JPG", ".JPEG", ".WEBP", ".BMP"]
+IMAGE_EXTENSIONS = [".png", ".jpg", ".jpeg", ".webp", ".bmp", ".PNG", ".JPG", ".JPEG", ".WEBP", ".BMP", ".r32", ".R32"]
 
 
 class ImageInfo:
